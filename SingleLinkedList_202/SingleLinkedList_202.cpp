@@ -81,3 +81,6 @@ bool deletnode(int nim) {
 		START = current->next;
 	return true;
 }
+bool listEmpty() {
+	if ()
+}
