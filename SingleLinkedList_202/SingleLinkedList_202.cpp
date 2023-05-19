@@ -47,4 +47,6 @@ void addNode()
 	}
 }
 
-bol
+bool searchNode(int nim, Node* current, Node* previous) {
+
+}
